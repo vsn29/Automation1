@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" thread-count="1" verbose="1" parallel="true">
+	<test name="module1" preserve-order="true">
+		<classes>
+			<!-- <class name="sample.sample.com.TestA" /> -->
+			<!-- <class name="sample.sample.com.TestB" /> -->
+			<!-- <class name="sample.sample.com.TestC" /> -->
+
+			<!-- <class name="sample.sample.com.LocateById" /> -->
+			<!-- <class name="sample.sample.com.CssSelector" /> -->
+
+			<!-- <class name="sample.sample.com.MouseHover" /> -->
+			<!-- <class name="sample.sample.com.MouseHover1" /> -->
+			<!-- <class name="sample.sample.com.MouseHover2" /> -->
+			<!-- <class name="sample.sample.com.MouseHover3" /> -->
+			
+			<!-- <class name="sample.sample.com.JavaScriptExecutor" /> -->
+			<!-- <class name="sample.sample.com.JavaScriptExecutor1" /> -->
+			<!-- <class name="sample.sample.com.JavaScriptExecutor2" /> -->
+			<class name="sample.sample.com.JavaScriptExecutor3" />
+			
+
+
+
+		</classes>
+	</test>
+</suite>

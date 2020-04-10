@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite1]" parallel="methods">
+  <test thread-count="1" verbose="0" name="module1(failed)" parallel="methods">
+    <classes>
+      <class name="sample.sample.com.JavaScriptExecutor1">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="javaScriptExeMethod"/>
+          <include name="start"/>
+        </methods>
+      </class> <!-- sample.sample.com.JavaScriptExecutor1 -->
+    </classes>
+  </test> <!-- module1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

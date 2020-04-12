@@ -3,13 +3,11 @@
 <suite thread-count="1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite1]" parallel="methods">
   <test thread-count="1" verbose="0" name="module1(failed)" parallel="methods">
     <classes>
-      <class name="sample.sample.com.JavaScriptExecutor1">
+      <class name="sample.sample.com.WebDriverManagementTest">
         <methods>
-          <include name="closeBrowser"/>
-          <include name="javaScriptExeMethod"/>
-          <include name="start"/>
+          <include name="WebDriverManagerTest"/>
         </methods>
-      </class> <!-- sample.sample.com.JavaScriptExecutor1 -->
+      </class> <!-- sample.sample.com.WebDriverManagementTest -->
     </classes>
   </test> <!-- module1(failed) -->
 </suite> <!-- Failed suite [Suite1] -->

@@ -2,24 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="22673" started-at="2020-04-11T00:39:26 IST" finished-at="2020-04-11T00:39:49 IST">
+  <suite name="Suite1" duration-ms="13321" started-at="2020-04-12T23:58:03 IST" finished-at="2020-04-12T23:58:17 IST">
     <groups>
     </groups>
-    <test name="module1" duration-ms="22673" started-at="2020-04-11T00:39:26 IST" finished-at="2020-04-11T00:39:49 IST">
-      <class name="sample.sample.com.JavaScriptExecutor3">
-        <test-method status="PASS" signature="start()[pri:0, instance:sample.sample.com.JavaScriptExecutor3@1e397ed7]" name="start" is-config="true" duration-ms="8820" started-at="2020-04-11T00:39:26 IST" finished-at="2020-04-11T00:39:35 IST">
+    <test name="module1" duration-ms="13321" started-at="2020-04-12T23:58:03 IST" finished-at="2020-04-12T23:58:17 IST">
+      <class name="sample.sample.com.WebDriverManagementTest">
+        <test-method status="PASS" signature="WebDriverManagerTest()[pri:0, instance:sample.sample.com.WebDriverManagementTest@25bbe1b6]" name="WebDriverManagerTest" duration-ms="13259" started-at="2020-04-12T23:58:03 IST" finished-at="2020-04-12T23:58:17 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- start -->
-        <test-method status="PASS" signature="Logind()[pri:0, instance:sample.sample.com.JavaScriptExecutor3@1e397ed7]" name="Logind" duration-ms="13627" started-at="2020-04-11T00:39:35 IST" finished-at="2020-04-11T00:39:49 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Logind -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sample.sample.com.JavaScriptExecutor3@1e397ed7]" name="closeBrowser" is-config="true" duration-ms="131" started-at="2020-04-11T00:39:49 IST" finished-at="2020-04-11T00:39:49 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeBrowser -->
-      </class> <!-- sample.sample.com.JavaScriptExecutor3 -->
+        </test-method> <!-- WebDriverManagerTest -->
+      </class> <!-- sample.sample.com.WebDriverManagementTest -->
     </test> <!-- module1 -->
   </suite> <!-- Suite1 -->
 </testng-results>

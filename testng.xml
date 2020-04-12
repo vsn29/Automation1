@@ -13,12 +13,15 @@
 			<!-- <class name="sample.sample.com.MouseHover1" /> -->
 			<!-- <class name="sample.sample.com.MouseHover2" /> -->
 			<!-- <class name="sample.sample.com.MouseHover3" /> -->
-			
+
 			<!-- <class name="sample.sample.com.JavaScriptExecutor" /> -->
 			<!-- <class name="sample.sample.com.JavaScriptExecutor1" /> -->
 			<!-- <class name="sample.sample.com.JavaScriptExecutor2" /> -->
-			<class name="sample.sample.com.JavaScriptExecutor3" />
-			
+			<!-- <class name="sample.sample.com.JavaScriptExecutor3" /> -->
+			<!-- <class name="sample.sample.com.JavaScriptExecutor4" /> -->
+			<class name="sample.sample.com.WebDriverManagementTest" />
+
+
 
 
 

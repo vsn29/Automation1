@@ -3,11 +3,12 @@
 <suite thread-count="1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite1]" parallel="methods">
   <test thread-count="1" verbose="0" name="module1(failed)" parallel="methods">
     <classes>
-      <class name="sample.sample.com.WebDriverManagementTest">
+      <class name="sample.sample.com.DropDown">
         <methods>
-          <include name="WebDriverManagerTest"/>
+          <include name="start"/>
+          <include name="dropdownmenu"/>
         </methods>
-      </class> <!-- sample.sample.com.WebDriverManagementTest -->
+      </class> <!-- sample.sample.com.DropDown -->
     </classes>
   </test> <!-- module1(failed) -->
 </suite> <!-- Failed suite [Suite1] -->

@@ -19,7 +19,9 @@
 			<!-- <class name="sample.sample.com.JavaScriptExecutor2" /> -->
 			<!-- <class name="sample.sample.com.JavaScriptExecutor3" /> -->
 			<!-- <class name="sample.sample.com.JavaScriptExecutor4" /> -->
-			<class name="sample.sample.com.WebDriverManagementTest" />
+			<!-- <class name="sample.sample.com.WebDriverManagementTest" /> -->
+			<!-- <class name="sample.sample.com.DropDown" /> -->
+			<class name="sample.sample.com.DynaimcDropDown" />
 
 
 

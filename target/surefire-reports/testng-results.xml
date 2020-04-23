@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="30402" started-at="2020-04-16T23:37:50 IST" finished-at="2020-04-16T23:38:21 IST">
+  <suite name="Suite1" duration-ms="17951" started-at="2020-04-23T23:35:32 IST" finished-at="2020-04-23T23:35:50 IST">
     <groups>
     </groups>
-    <test name="module1" duration-ms="30402" started-at="2020-04-16T23:37:50 IST" finished-at="2020-04-16T23:38:21 IST">
-      <class name="sample.sample.com.DynaimcDropDown">
-        <test-method status="PASS" signature="start()[pri:0, instance:sample.sample.com.DynaimcDropDown@6adede5]" name="start" is-config="true" duration-ms="8779" started-at="2020-04-16T23:37:50 IST" finished-at="2020-04-16T23:37:59 IST">
+    <test name="module1" duration-ms="17951" started-at="2020-04-23T23:35:32 IST" finished-at="2020-04-23T23:35:50 IST">
+      <class name="sample.sample.com.DynamicRadioButtons">
+        <test-method status="PASS" signature="start()[pri:0, instance:sample.sample.com.DynamicRadioButtons@6adede5]" name="start" is-config="true" duration-ms="9169" started-at="2020-04-23T23:35:32 IST" finished-at="2020-04-23T23:35:41 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method status="PASS" signature="dropdownmenu()[pri:0, instance:sample.sample.com.DynaimcDropDown@6adede5]" name="dropdownmenu" duration-ms="17074" started-at="2020-04-16T23:37:59 IST" finished-at="2020-04-16T23:38:16 IST">
+        <test-method status="PASS" signature="dynamicRadioButton()[pri:0, instance:sample.sample.com.DynamicRadioButtons@6adede5]" name="dynamicRadioButton" duration-ms="8565" started-at="2020-04-23T23:35:41 IST" finished-at="2020-04-23T23:35:50 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- dropdownmenu -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sample.sample.com.DynaimcDropDown@6adede5]" name="closeBrowser" is-config="true" duration-ms="4466" started-at="2020-04-16T23:38:16 IST" finished-at="2020-04-16T23:38:21 IST">
+        </test-method> <!-- dynamicRadioButton -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sample.sample.com.DynamicRadioButtons@6adede5]" name="closeBrowser" is-config="true" duration-ms="176" started-at="2020-04-23T23:35:50 IST" finished-at="2020-04-23T23:35:50 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-      </class> <!-- sample.sample.com.DynaimcDropDown -->
+      </class> <!-- sample.sample.com.DynamicRadioButtons -->
     </test> <!-- module1 -->
   </suite> <!-- Suite1 -->
 </testng-results>

@@ -3,12 +3,13 @@
 <suite thread-count="1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite1]" parallel="methods">
   <test thread-count="1" verbose="0" name="module1(failed)" parallel="methods">
     <classes>
-      <class name="sample.sample.com.DropDown">
+      <class name="sample.sample.com.DynamicRadioButtons">
         <methods>
           <include name="start"/>
-          <include name="dropdownmenu"/>
+          <include name="dynamicRadioButton"/>
+          <include name="closeBrowser"/>
         </methods>
-      </class> <!-- sample.sample.com.DropDown -->
+      </class> <!-- sample.sample.com.DynamicRadioButtons -->
     </classes>
   </test> <!-- module1(failed) -->
 </suite> <!-- Failed suite [Suite1] -->

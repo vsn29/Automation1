@@ -46,8 +46,7 @@ public class DropDown {
 		Thread.sleep(2000);
 
 		/*
-		 * Select s = new
-		 * Select(driver.findElement(By.id("//div[@id='divpaxinfo']"))s.click();
+		  Select s = new Select(driver.findElement(By.id("//div[@id='divpaxinfo']")).click();
 		 */
 
 		WebElement dropdown = driver.findElement(By.id("divpaxinfo"));

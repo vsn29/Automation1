@@ -38,7 +38,7 @@ public class DropDown {
 	@Test
 	public void dropdownmenu() throws InterruptedException {
 
-		driver.get("http://spicejet.com/");
+		driver.get("https://www.spicejet.com/");
 		// This line maximizes the browser window
 		driver.manage().window().maximize();
 

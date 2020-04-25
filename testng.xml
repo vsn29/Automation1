@@ -26,7 +26,11 @@
 			<!-- <class name="sample.sample.com.Alert_Demo" /> -->
 			<!-- <class name="sample.sample.com.RadioButtons" /> -->
 
-			<class name="sample.sample.com.DynamicRadioButtons" />
+			<!-- <class name="sample.sample.com.DynamicRadioButtons" /> -->
+
+			<class name="sample.sample.com.CheckBoxTest" />
+
+
 
 
 
